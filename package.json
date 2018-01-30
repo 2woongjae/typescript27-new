@@ -1,0 +1,19 @@
+{
+  "name": "typescript27-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.7.0-rc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.35",
+    "react": "^16.2.0"
+  }
+}
